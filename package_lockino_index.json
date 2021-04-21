@@ -1,0 +1,35 @@
+{
+    "packages":
+    [
+        {
+            "name": "Lockino",
+            "maintainer": "ezkybel",
+            "websiteURL": "https://ezkybel.github.io",
+            "email": "ezkybel@gmail.com",
+            "help": {
+              "online": "https://ezkybel.github.io/lockino/readme.txt"
+            },
+            "platforms": 
+            [
+                {
+                    "name": "Lockino",
+                    "architecture": "avr",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "url": "https://ezkybel.github.io/lockino/lockino.zip",
+                    "archiveFileName": "esquivelduino.zip",
+                    "checksum": "SHA-256:03DEF56589CDF66ABD95B49A7FD669BF110CC355A0EB43733C5DF445F94E05AB",
+                    "size": "144043",
+                    "toolsDependencies": [],
+                    "boards" :
+                    [
+                        {
+                            "name": "Esquivelduino"
+                        }
+                    ]
+                }
+            ],
+            "tools": []
+        }
+    ]
+}
