@@ -18,8 +18,8 @@
                     "category": "Contributed",
                     "url": "https://ezkybel.github.io/lockino/lockino.zip",
                     "archiveFileName": "esquivelduino.zip",
-                    "checksum": "SHA-256:D9560CCAEB24DF5DE0A23DFAC4066D836E30E0FF250058271C40B9990E6578DA",
-                    "size": "52878",
+                    "checksum": "SHA-256:1BF01B5ECED8822767AFCD7944701CE1357A25553DFACE5420B28ABD0AE39911",
+                    "size": "525902",
                     "toolsDependencies": [],
                     "boards" :
                     [
