@@ -23,9 +23,9 @@
                     "toolsDependencies": [],
                     "boards" :
                     [
-                        {
-                            "name": "Esquivelduino"
-                        }
+                        {"name": "Arduino Uno"},
+                        {"name": "Arduino Nano"},
+                        {"name": "Arduino Mega"}
                     ]
                 }
             ],
