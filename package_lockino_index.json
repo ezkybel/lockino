@@ -23,9 +23,9 @@
                     "toolsDependencies": [],
                     "boards" :
                     [     
-                        {"name": "Arduino Uno"},
-                        {"name": "Arduino Nano"},
-                        {"name": "Arduino Mega"}   
+                        {"name": "Lockino Uno"},
+                        {"name": "Lockino Nano"},
+                        {"name": "Lockino Mega"}   
                     ]
                 }
             ],
