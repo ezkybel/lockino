@@ -24,7 +24,7 @@
                     "boards" :
                     [
                         {
-                            "name": "Arduino Uno"
+                            "name": "Rubí 128k"
                         }
                     ]
                 }
