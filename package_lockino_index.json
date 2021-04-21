@@ -24,7 +24,7 @@
                     "boards" :
                     [
                         {
-                            "name": "Arduino Uno","name": "Arduino Nano","name": "Arduino Mega"
+                            "name": "Arduino Uno"
                         }
                     ]
                 }
