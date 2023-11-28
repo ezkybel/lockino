@@ -1,0 +1,39 @@
+{
+  "packages":
+  [
+    {
+      "name": "Lockino AVR Boards",
+      "maintainer": "Antonio Esquivel",
+      "websiteUrl": "https://github.com/ezkybel",
+      "url": "https://raw.githubusercontent.com/ezkybel/lockino/main/package_lockino_index.json",
+      "email": "ezkybel@gmail.com",
+      "help": {
+        "online": "https://github.com/ezkybel/lockino/blob/main/readme.txt"
+      },
+      "platforms":
+      [
+        {
+          "name": "Lockino AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/ezkybel/lockino/raw/main/lockino.zip",
+          "archiveFileName": "lockino.zip",
+          "checksum": "SHA-256:8fe935346579ac1c6b7efda40d5888785ce27ce163525189d4d32ecb8673b087",
+          "size": "590747",
+          "boards": [
+            { "name": "Lockino Uno" },
+            { "name": "Lockino Nano" },
+            { "name": "Lockino Mega" }
+          ],
+          "toolsDependencies":
+          []
+        }
+      ],
+      "tools":[],
+      "help": {
+        "online": "https://ezkybel.github.io/lockino/readme.txt"
+      }
+    }
+  ]
+}
