@@ -8,7 +8,7 @@
       "url": "https://raw.githubusercontent.com/ezkybel/lockino/main/package_lockino_index.json",
       "email": "ezkybel@gmail.com",
       "help": {
-        "online": "https://github.com/ezkybel/lockino/blob/main/readme.txt"
+        "online": "https://raw.githubusercontent.com/ezkybel/lockino/main/readme.txt"
       },
       "platforms":
       [
@@ -32,7 +32,7 @@
       ],
       "tools":[],
       "help": {
-        "online": "https://ezkybel.github.io/lockino/readme.txt"
+        "online": "https://raw.githubusercontent.com/ezkybel/lockino/main/readme.txt"
       }
     }
   ]
