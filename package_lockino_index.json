@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "Lockino AVR Boards",
+      "name": "Lockino",
       "maintainer": "Antonio Esquivel",
       "websiteUrl": "https://github.com/ezkybel",
       "url": "https://raw.githubusercontent.com/ezkybel/lockino/main/package_lockino_index.json",
