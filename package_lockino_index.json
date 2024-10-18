@@ -13,7 +13,7 @@
       "platforms":
       [
         {
-          "name": "Lockino AVR Boards",
+          "name": "Lockino",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
