@@ -20,7 +20,7 @@
           "url": "https://github.com/ezkybel/lockino/raw/main/lockino.zip",
           "archiveFileName": "lockino.zip",
           "checksum": "SHA-256:8fe935346579ac1c6b7efda40d5888785ce27ce163525189d4d32ecb8673b087",
-          "size": "590747",
+          "size": "590742",
           "boards": [
             { "name": "Lockino Uno" },
             { "name": "Lockino Nano" },
