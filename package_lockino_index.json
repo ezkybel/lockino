@@ -19,7 +19,7 @@
           "category": "Contributed",
           "url": "https://github.com/ezkybel/lockino/raw/main/lockino.zip",
           "archiveFileName": "lockino.zip",
-          "checksum": "SHA-256:8fe935346579ac1c6b7efda40d5888785ce27ce163525189d4d32ecb8673b087",
+          "checksum": "SHA-256:b0081270ab6ae11587cd152c1fad5ffe0102c1a3dd64211d8455a4309f100efc",
           "size": "590742",
           "boards": [
             { "name": "Lockino Uno" },
